@@ -1,0 +1,53 @@
+,Start Date,Start Price,End Date,End Price,Weekly Returns,Bin Label,News,Basics
+0,2023-01-01,9.982172966003418,2023-01-08,14.31993293762207,0.4345506721223815,U5+,[],{}
+1,2023-01-08,14.31993293762207,2023-01-15,22.873306274414062,0.5973054045749144,U5+,[],{}
+2,2023-01-15,22.873306274414062,2023-01-22,24.232789993286133,0.05943538299894935,U5+,[],{}
+3,2023-01-22,24.232789993286133,2023-01-29,26.132387161254883,0.07838953618196864,U5+,[],{}
+4,2023-01-29,26.132387161254883,2023-02-05,23.493438720703125,-0.10098382609547385,D5+,[],{}
+5,2023-02-05,23.493438720703125,2023-02-12,21.489978790283203,-0.08527742380490311,D5+,[],{}
+6,2023-02-12,21.489978790283203,2023-02-19,24.84075164794922,0.15592257630245232,U5+,[],{}
+7,2023-02-19,24.84075164794922,2023-02-26,23.256088256835938,-0.06379289216250861,D5+,[],{}
+8,2023-02-26,23.256088256835938,2023-03-05,20.97858428955078,-0.09793151548673296,D5+,[],{}
+9,2023-03-05,20.97858428955078,2023-03-12,20.310531616210938,-0.03184450695620078,D4,[],{}
+10,2023-03-12,20.310531616210938,2023-03-19,21.90340232849121,0.07842585031151605,U5+,[],{}
+11,2023-03-19,21.90340232849121,2023-03-26,20.97551918029785,-0.04236251219229081,D5,[],{}
+12,2023-03-26,20.97551918029785,2023-04-02,20.536975860595703,-0.02090738808096193,D3,[],{}
+13,2023-04-02,20.536975860595703,2023-04-09,20.29946517944336,-0.011565027040230214,D2,[],{}
+14,2023-04-09,20.29946517944336,2023-04-16,25.361927032470703,0.24938892765283005,U5+,[],{}
+15,2023-04-16,25.361927032470703,2023-04-23,21.480138778686523,-0.1530557299062627,D5+,[],{}
+16,2023-04-23,21.480138778686523,2023-04-30,22.832014083862305,0.06293606010204966,U5+,[],{}
+17,2023-04-30,22.832014083862305,2023-05-07,21.844228744506836,-0.043263171427948444,D5,[],{}
+18,2023-05-07,21.844228744506836,2023-05-14,20.953397750854492,-0.04078106872399245,D5,[],{}
+19,2023-05-14,20.953397750854492,2023-05-21,19.609437942504883,-0.06414042363581829,D5+,[],{}
+20,2023-05-21,19.609437942504883,2023-05-28,20.7985782623291,0.060641224052968346,U5+,[],{}
+21,2023-05-28,20.7985782623291,2023-06-04,21.8189754486084,0.049060910481918185,U5,[],{}
+22,2023-06-04,21.8189754486084,2023-06-11,15.558775901794434,-0.2869153760935753,D5+,[],{}
+23,2023-06-11,15.558775901794434,2023-06-18,15.43823528289795,-0.0077474358945283095,D1,[],{}
+24,2023-06-18,15.43823528289795,2023-06-25,16.97138023376465,0.09930830323366524,U5+,[],{}
+25,2023-06-25,16.97138023376465,2023-07-02,19.453594207763672,0.14625881571262234,U5+,[],{}
+26,2023-07-02,19.453594207763672,2023-07-09,21.3490047454834,0.09743240850388935,U5+,[],{}
+27,2023-07-09,21.3490047454834,2023-07-16,27.384082794189453,0.28268662266248445,U5+,[],{}
+28,2023-07-16,27.384082794189453,2023-07-23,24.766815185546875,-0.09557623778430613,D5+,[],{}
+29,2023-07-23,24.766815185546875,2023-07-30,24.261018753051758,-0.02042234452455094,D3,[],{}
+30,2023-07-30,24.261018753051758,2023-08-06,23.18569564819336,-0.04432308122770545,D5,[],{}
+31,2023-08-06,23.18569564819336,2023-08-13,24.24288558959961,0.045596645338895625,U5,[],{}
+32,2023-08-13,24.24288558959961,2023-08-20,21.77327537536621,-0.10186948270270602,D5+,[],{}
+33,2023-08-20,21.77327537536621,2023-08-27,20.78683853149414,-0.045304935838367366,D5,[],{}
+34,2023-08-27,20.78683853149414,2023-09-03,19.578746795654297,-0.058118108437195226,D5+,[],{}
+35,2023-09-03,19.578746795654297,2023-09-10,18.248830795288086,-0.06792651308312536,D5+,[],{}
+36,2023-09-10,18.248830795288086,2023-09-17,18.831628799438477,0.031936183237606164,U4,[],{}
+37,2023-09-17,18.831628799438477,2023-09-24,19.374290466308594,0.028816501888901946,U3,[],{}
+38,2023-09-24,19.374290466308594,2023-10-01,23.83648681640625,0.23031534279189758,U5+,[],{}
+39,2023-10-01,23.83648681640625,2023-10-08,23.24642562866211,-0.024754536702028207,D3,"[{""date"": ""20231004111048"", ""headline"": ""Solana: A Bumpy Ride To Recovery"", ""summary"": ""Solana's recovery is gaining momentum as positive developments and partnerships boost sentiment. Read my analysis of SOL-USD here.""}, {""date"": ""20231007203000"", ""headline"": ""VanEck Monthly Crypto Recap For September 2023"", ""summary"": ""Digital assets outperformed other risk assets in September for the first time since May. Among tokens, large-caps\u00e2\u0080\u0099 outperformance surged to all-time highs vs. small-caps.""}]",{}
+40,2023-10-08,23.24642562866211,2023-10-15,21.922027587890625,-0.056972115280318314,D5+,"[{""date"": ""20231007203000"", ""headline"": ""VanEck Monthly Crypto Recap For September 2023"", ""summary"": ""Digital assets outperformed other risk assets in September for the first time since May. Among tokens, large-caps\u00e2\u0080\u0099 outperformance surged to all-time highs vs. small-caps.""}, {""date"": ""20231011063039"", ""headline"": ""BITW: A Simpler Approach To Crypto Diversification"", ""summary"": ""The Bitwise 10 Crypto Index Fund aims to provide investors with exposure to 10 different cryptocurrencies in one fund. Read more here.""}]",{}
+41,2023-10-15,21.922027587890625,2023-10-22,29.03668212890625,0.32454363596119395,U5+,[],{}
+42,2023-10-22,29.03668212890625,2023-10-29,32.822608947753906,0.1303842774474131,U5+,"[{""date"": ""20231026033000"", ""headline"": ""Flight-To-Safety Assets: Are They Really Safe?"", ""summary"": ""Supposedly safe bonds are being sold. The Mid-East upheaval and recession fears should mean Treasuries get a strong bid. Stocks are declining while gold and crypto continue in the ascendent.""}]",{}
+43,2023-10-29,32.822608947753906,2023-11-05,41.23860168457031,0.25640840282418575,U5+,"[{""date"": ""20231102224500"", ""headline"": ""VanEck's Base, Bear, Bull Case: Solana Valuation By 2030"", ""summary"": ""In this note, we model a scenario in which Solana is the first blockchain to host an application that onboards 100M+ users""}, {""date"": ""20231103065251"", ""headline"": ""The S&P 500 Needs To Hold This Key Level - Otherwise It's Time To Batten Down The Hatches (Technical Analysis)"", ""summary"": ""Consider alternative investments like gold & Bitcoin if S&P 500 support collapses. Click here to read what investors need to know.""}]",{}
+44,2023-11-05,41.23860168457031,2023-11-12,56.15409851074219,0.3616877444162372,U5+,"[{""date"": ""20231111040000"", ""headline"": ""VanEck Crypto Monthly Recap For October 2023"", ""summary"": ""Amidst the sharp sell-off in U.S. government debt, Bitcoin\u00e2\u0080\u0099s performance is gaining newfound attention. Click here to read more in VanEck's Crypto Monthly Recap.""}]",{}
+45,2023-11-12,56.15409851074219,2023-11-19,61.393558502197266,0.09330503258729683,U5+,[],{}
+46,2023-11-19,61.393558502197266,2023-11-26,57.6427001953125,-0.061095307038612545,D5+,"[{""date"": ""20231120051537"", ""headline"": ""Bitcoin: Taking A Breath Before The Next Surge"", ""summary"": ""Bitcoin has outperformed stock markets and precious metals, with a 145% increase in value over the past year. Find out how BTC-USD is likely to move from here.""}]",{}
+47,2023-11-26,57.6427001953125,2023-12-03,63.03996658325195,0.09363312908055543,U5+,[],{}
+48,2023-12-03,63.03996658325195,2023-12-10,74.70588684082031,0.18505593974517875,U5+,"[{""date"": ""20231207031000"", ""headline"": ""VanEck Crypto Monthly Recap For November 2023"", ""summary"": ""In Nov., Bitcoin outperformed the S&P 500 due to investor interest and potential US Bitcoin ETFs. Click here to read the full Nov. crypto update.""}, {""date"": ""20231207052000"", ""headline"": ""Top Investment Picks For 2024: India And Bitcoin"", ""summary"": ""Wish you had bought the \u00e2\u0080\u009cMagnificent 7\u00e2\u0080\u009d stocks 10 years ago? Standing on the precipice of 2024, we explore where we think investors\u00e2\u0080\u0094several years from now\u00e2\u0080\u0094may wish they had invested today.""}, {""date"": ""20231209014500"", ""headline"": ""VanEck's 15 Crypto Predictions For 2024"", ""summary"": ""Step into the realm of speculation with us as we embark on a whimsical journey into the future of crypto and outline our top 15 Crypto Predictions for 2024.""}]",{}
+49,2023-12-10,74.70588684082031,2023-12-17,71.00051879882812,-0.04959941175569482,D5,"[{""date"": ""20231212030000"", ""headline"": ""Ethereum Has Upside"", ""summary"": ""Ethereum could outperform Bitcoin in the next 6 months due to its recent underperformance and changing market conditions. Find out my recommendation on ETH-USD.""}]",{}
+50,2023-12-17,71.00051879882812,2023-12-24,112.48521423339844,0.5842872155922194,U5+,"[{""date"": ""20231223040000"", ""headline"": ""An Answer To 'Crypto's Unanswered Question: At What Price?'"", ""summary"": ""I have no strong opinion on whether cryptoassets are undervalued or overvalued, the future of money and commerce or a fad that we\u00e2\u0080\u0099ll all look back on amusingly.""}]",{}
+51,2023-12-24,112.48521423339844,2023-12-31,101.84508514404297,-0.09459135728966117,D5+,"[{""date"": ""20231228004500"", ""headline"": ""2024 Outlook Q&A: Rates, Landing And Where To Invest"", ""summary"": ""As investors prepare their portfolios for 2024, VanEck's investment professionals share insights on what to expect. Click here to read more.""}, {""date"": ""20231228114429"", ""headline"": ""DAPP: Eyeing An Upside Target, High Volatility & Valuation Are Key Risks"", ""summary"": ""The VanEck Vectors Digital Transformation ETF has cleared two key price levels recently, but has a high-volatility rise and lofty valuation. Read more here.""}]",{}
